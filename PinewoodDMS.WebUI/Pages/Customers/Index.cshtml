@@ -1,0 +1,60 @@
+﻿@page
+@model PinewoodDMS.WebUI.Pages.Customers.IndexModel
+@{
+    ViewData["Title"] = "Customers Page";
+}
+
+<h2>Customers</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>First Name</th>
+            <th>Last Name</th>
+            <th>Email</th>
+            <th>Telephone</th>
+            <th>HouseNumber</th>
+            <th>AddressLine1</th>
+            <th>AddressLine2</th>
+            <th>City</th>
+            <th>PostalCode</th>
+            <th>Country</th>
+            <th colspan="2">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Customers != null)
+        {
+            @foreach (var customer in Model.Customers)
+            {
+                <tr>
+
+                    <td>@customer.FirstName</td>
+                    <td>@customer.LastName</td>
+                    <td>@customer.Email</td>
+                    <td>@customer.Telephone</td>
+                    <td>@customer.HouseNumber</td>
+                    <td>@customer.AddressLine1</td>
+                    <td>@customer.AddressLine2</td>
+                    <td>@customer.City</td>
+                    <td>@customer.PostalCode</td>
+                    <td>@customer.Country</td>
+                    <td colspan="2">
+                        <div class="text-center d-flex justify-content-center gap-2">
+                            <a asp-page="Edit" asp-route-id="@customer.CustomerId" class="btn btn-primary">Edit</a>
+                            <a asp-page="Delete" asp-route-id="@customer.CustomerId" class="btn btn-danger">Delete</a>
+                        </div>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>
+
+<div class="mt-2">
+    <div class="col-md-offset-2 col-md-5">
+        <a asp-page="Create" class="btn btn-secondary">Add Customer</a>
+    </div>
+</div>
+
+

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hGoxguEJ3RGREZPwrZDxn3Y0FN09OL42mFydZdJG2oE=",
+  "Source": "PinewoodDMS.WebAPI",
+  "BasePath": "_content/PinewoodDMS.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

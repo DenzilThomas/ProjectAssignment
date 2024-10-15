@@ -1,0 +1,11 @@
+C:\Users\denzi\source\repos\PinewoodDMSSolution\PinewoodDMS.Models\bin\Debug\net8.0\PinewoodDMS.Models.deps.json
+C:\Users\denzi\source\repos\PinewoodDMSSolution\PinewoodDMS.Models\bin\Debug\net8.0\PinewoodDMS.Models.dll
+C:\Users\denzi\source\repos\PinewoodDMSSolution\PinewoodDMS.Models\bin\Debug\net8.0\PinewoodDMS.Models.pdb
+C:\Users\denzi\source\repos\PinewoodDMSSolution\PinewoodDMS.Models\obj\Debug\net8.0\PinewoodDMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denzi\source\repos\PinewoodDMSSolution\PinewoodDMS.Models\obj\Debug\net8.0\PinewoodDMS.Models.AssemblyInfoInputs.cache
+C:\Users\denzi\source\repos\PinewoodDMSSolution\PinewoodDMS.Models\obj\Debug\net8.0\PinewoodDMS.Models.AssemblyInfo.cs
+C:\Users\denzi\source\repos\PinewoodDMSSolution\PinewoodDMS.Models\obj\Debug\net8.0\PinewoodDMS.Models.csproj.CoreCompileInputs.cache
+C:\Users\denzi\source\repos\PinewoodDMSSolution\PinewoodDMS.Models\obj\Debug\net8.0\PinewoodDMS.Models.dll
+C:\Users\denzi\source\repos\PinewoodDMSSolution\PinewoodDMS.Models\obj\Debug\net8.0\refint\PinewoodDMS.Models.dll
+C:\Users\denzi\source\repos\PinewoodDMSSolution\PinewoodDMS.Models\obj\Debug\net8.0\PinewoodDMS.Models.pdb
+C:\Users\denzi\source\repos\PinewoodDMSSolution\PinewoodDMS.Models\obj\Debug\net8.0\ref\PinewoodDMS.Models.dll

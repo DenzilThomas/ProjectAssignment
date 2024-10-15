@@ -1,0 +1,474 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E801BEC4-FB4D-4E28-8ACF-AB56B2DF68D1}|PinewoodDMS.WebAPI\\PinewoodDMS.WebAPI.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E801BEC4-FB4D-4E28-8ACF-AB56B2DF68D1}|PinewoodDMS.WebAPI\\PinewoodDMS.WebAPI.csproj|solutionrelative:pinewooddms.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56356C0-CEED-4B2F-B38B-2D09B49B94E1}|PinewoodDMS.Tests\\PinewoodDMS.Tests.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.tests\\controllers\\customercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56356C0-CEED-4B2F-B38B-2D09B49B94E1}|PinewoodDMS.Tests\\PinewoodDMS.Tests.csproj|solutionrelative:pinewooddms.tests\\controllers\\customercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B56356C0-CEED-4B2F-B38B-2D09B49B94E1}|PinewoodDMS.Tests\\PinewoodDMS.Tests.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.tests\\mockclasses\\mockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B56356C0-CEED-4B2F-B38B-2D09B49B94E1}|PinewoodDMS.Tests\\PinewoodDMS.Tests.csproj|solutionrelative:pinewooddms.tests\\mockclasses\\mockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.webui\\pages\\customers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|solutionrelative:pinewooddms.webui\\pages\\customers\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.webui\\pages\\customers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|solutionrelative:pinewooddms.webui\\pages\\customers\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.webui\\pages\\customers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|solutionrelative:pinewooddms.webui\\pages\\customers\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.webui\\pages\\customers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|solutionrelative:pinewooddms.webui\\pages\\customers\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4F53010-31C9-4EC5-A9F6-0BC87FC80D15}|PinewoodDMS.Models\\PinewoodDMS.Models.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.models\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4F53010-31C9-4EC5-A9F6-0BC87FC80D15}|PinewoodDMS.Models\\PinewoodDMS.Models.csproj|solutionrelative:pinewooddms.models\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|solutionrelative:pinewooddms.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|solutionrelative:pinewooddms.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.webui\\pages\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|solutionrelative:pinewooddms.webui\\pages\\customers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.webui\\pages\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|solutionrelative:pinewooddms.webui\\pages\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.webui\\pages\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|solutionrelative:pinewooddms.webui\\pages\\customers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CF4229-5ECD-4194-8E31-8DB8D8F9DBFC}|PinewoodDMS.DataAccessLayer\\PinewoodDMS.DataAccessLayer.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.dataaccesslayer\\migrations\\20241014123911_addeddataconstraintsmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CF4229-5ECD-4194-8E31-8DB8D8F9DBFC}|PinewoodDMS.DataAccessLayer\\PinewoodDMS.DataAccessLayer.csproj|solutionrelative:pinewooddms.dataaccesslayer\\migrations\\20241014123911_addeddataconstraintsmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E801BEC4-FB4D-4E28-8ACF-AB56B2DF68D1}|PinewoodDMS.WebAPI\\PinewoodDMS.WebAPI.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.webapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E801BEC4-FB4D-4E28-8ACF-AB56B2DF68D1}|PinewoodDMS.WebAPI\\PinewoodDMS.WebAPI.csproj|solutionrelative:pinewooddms.webapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CF4229-5ECD-4194-8E31-8DB8D8F9DBFC}|PinewoodDMS.DataAccessLayer\\PinewoodDMS.DataAccessLayer.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.dataaccesslayer\\migrations\\20241014105917_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CF4229-5ECD-4194-8E31-8DB8D8F9DBFC}|PinewoodDMS.DataAccessLayer\\PinewoodDMS.DataAccessLayer.csproj|solutionrelative:pinewooddms.dataaccesslayer\\migrations\\20241014105917_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CF4229-5ECD-4194-8E31-8DB8D8F9DBFC}|PinewoodDMS.DataAccessLayer\\PinewoodDMS.DataAccessLayer.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.dataaccesslayer\\datacontext\\pinewooddmssqllitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CF4229-5ECD-4194-8E31-8DB8D8F9DBFC}|PinewoodDMS.DataAccessLayer\\PinewoodDMS.DataAccessLayer.csproj|solutionrelative:pinewooddms.dataaccesslayer\\datacontext\\pinewooddmssqllitecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CF4229-5ECD-4194-8E31-8DB8D8F9DBFC}|PinewoodDMS.DataAccessLayer\\PinewoodDMS.DataAccessLayer.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.dataaccesslayer\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CF4229-5ECD-4194-8E31-8DB8D8F9DBFC}|PinewoodDMS.DataAccessLayer\\PinewoodDMS.DataAccessLayer.csproj|solutionrelative:pinewooddms.dataaccesslayer\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CF4229-5ECD-4194-8E31-8DB8D8F9DBFC}|PinewoodDMS.DataAccessLayer\\PinewoodDMS.DataAccessLayer.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.dataaccesslayer\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73CF4229-5ECD-4194-8E31-8DB8D8F9DBFC}|PinewoodDMS.DataAccessLayer\\PinewoodDMS.DataAccessLayer.csproj|solutionrelative:pinewooddms.dataaccesslayer\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73CF4229-5ECD-4194-8E31-8DB8D8F9DBFC}|PinewoodDMS.DataAccessLayer\\PinewoodDMS.DataAccessLayer.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.dataaccesslayer\\pinewooddms.dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73CF4229-5ECD-4194-8E31-8DB8D8F9DBFC}|PinewoodDMS.DataAccessLayer\\PinewoodDMS.DataAccessLayer.csproj|solutionrelative:pinewooddms.dataaccesslayer\\pinewooddms.dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|c:\\users\\denzi\\source\\repos\\pinewooddmssolution\\pinewooddms.webui\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{378572EB-DBFA-49F5-8B11-C0E4FC8D7FE6}|PinewoodDMS.WebUI\\PinewoodDMS.WebUI.csproj|solutionrelative:pinewooddms.webui\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 31,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\appsettings.json",
+              "RelativeDocumentMoniker": "PinewoodDMS.WebUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\appsettings.json",
+              "RelativeToolTip": "PinewoodDMS.WebUI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T19:46:43.179Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:23:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:26:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{80454082-9ab8-47d4-af23-82bf6739e2a9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MockRepository.cs",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.Tests\\MockClasses\\MockRepository.cs",
+              "RelativeDocumentMoniker": "PinewoodDMS.Tests\\MockClasses\\MockRepository.cs",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.Tests\\MockClasses\\MockRepository.cs",
+              "RelativeToolTip": "PinewoodDMS.Tests\\MockClasses\\MockRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:26:49.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\Pages\\Customers\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "PinewoodDMS.WebUI\\Pages\\Customers\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\Pages\\Customers\\Index.cshtml.cs",
+              "RelativeToolTip": "PinewoodDMS.WebUI\\Pages\\Customers\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:11:23.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\Pages\\Customers\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "PinewoodDMS.WebUI\\Pages\\Customers\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\Pages\\Customers\\Create.cshtml.cs",
+              "RelativeToolTip": "PinewoodDMS.WebUI\\Pages\\Customers\\Create.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwCQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:10:03.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\Pages\\Customers\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "PinewoodDMS.WebUI\\Pages\\Customers\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\Pages\\Customers\\Delete.cshtml.cs",
+              "RelativeToolTip": "PinewoodDMS.WebUI\\Pages\\Customers\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:59:33.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "PinewoodDMS.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\Program.cs",
+              "RelativeToolTip": "PinewoodDMS.WebUI\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:04:45.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\Pages\\Customers\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "PinewoodDMS.WebUI\\Pages\\Customers\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\Pages\\Customers\\Edit.cshtml.cs",
+              "RelativeToolTip": "PinewoodDMS.WebUI\\Pages\\Customers\\Edit.cshtml.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:06:31.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PinewoodDMS.WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebAPI\\Program.cs",
+              "RelativeToolTip": "PinewoodDMS.WebAPI\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:54:47.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.Tests\\controllers\\CustomerControllerTest.cs",
+              "RelativeDocumentMoniker": "PinewoodDMS.Tests\\controllers\\CustomerControllerTest.cs",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.Tests\\controllers\\CustomerControllerTest.cs",
+              "RelativeToolTip": "PinewoodDMS.Tests\\controllers\\CustomerControllerTest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T20:29:50.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.Models\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "PinewoodDMS.Models\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.Models\\Models\\Customer.cs",
+              "RelativeToolTip": "PinewoodDMS.Models\\Models\\Customer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:26:59.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\Pages\\Customers\\Create.cshtml",
+              "RelativeDocumentMoniker": "PinewoodDMS.WebUI\\Pages\\Customers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\Pages\\Customers\\Create.cshtml",
+              "RelativeToolTip": "PinewoodDMS.WebUI\\Pages\\Customers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T11:25:57.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\Pages\\Customers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PinewoodDMS.WebUI\\Pages\\Customers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\Pages\\Customers\\Edit.cshtml",
+              "RelativeToolTip": "PinewoodDMS.WebUI\\Pages\\Customers\\Edit.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAIBJwDgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T12:04:32.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\Pages\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PinewoodDMS.WebUI\\Pages\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\Pages\\Customers\\Delete.cshtml",
+              "RelativeToolTip": "PinewoodDMS.WebUI\\Pages\\Customers\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T11:59:21.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241014123911_AddedDataConstraintsMigration.cs",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.DataAccessLayer\\Migrations\\20241014123911_AddedDataConstraintsMigration.cs",
+              "RelativeDocumentMoniker": "PinewoodDMS.DataAccessLayer\\Migrations\\20241014123911_AddedDataConstraintsMigration.cs",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.DataAccessLayer\\Migrations\\20241014123911_AddedDataConstraintsMigration.cs",
+              "RelativeToolTip": "PinewoodDMS.DataAccessLayer\\Migrations\\20241014123911_AddedDataConstraintsMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:39:11.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "libman.json",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\libman.json",
+              "RelativeDocumentMoniker": "PinewoodDMS.WebUI\\libman.json",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebUI\\libman.json",
+              "RelativeToolTip": "PinewoodDMS.WebUI\\libman.json",
+              "ViewState": "AgIAAAgAAAAAAAAAAABRwA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T12:51:20.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241014105917_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.DataAccessLayer\\Migrations\\20241014105917_InitialMigration.cs",
+              "RelativeDocumentMoniker": "PinewoodDMS.DataAccessLayer\\Migrations\\20241014105917_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.DataAccessLayer\\Migrations\\20241014105917_InitialMigration.cs",
+              "RelativeToolTip": "PinewoodDMS.DataAccessLayer\\Migrations\\20241014105917_InitialMigration.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:59:17.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "PinewoodDMS.WebAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.WebAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "PinewoodDMS.WebAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:49:11.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.DataAccessLayer\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "PinewoodDMS.DataAccessLayer\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.DataAccessLayer\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "PinewoodDMS.DataAccessLayer\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:40:44.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PinewoodDMSSqlLiteContext.cs",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.DataAccessLayer\\DataContext\\PinewoodDMSSqlLiteContext.cs",
+              "RelativeDocumentMoniker": "PinewoodDMS.DataAccessLayer\\DataContext\\PinewoodDMSSqlLiteContext.cs",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.DataAccessLayer\\DataContext\\PinewoodDMSSqlLiteContext.cs",
+              "RelativeToolTip": "PinewoodDMS.DataAccessLayer\\DataContext\\PinewoodDMSSqlLiteContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:35:49.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.DataAccessLayer\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "PinewoodDMS.DataAccessLayer\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.DataAccessLayer\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "PinewoodDMS.DataAccessLayer\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T10:39:41.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PinewoodDMS.DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.DataAccessLayer\\PinewoodDMS.DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "PinewoodDMS.DataAccessLayer\\PinewoodDMS.DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\denzi\\source\\repos\\PinewoodDMSSolution\\PinewoodDMS.DataAccessLayer\\PinewoodDMS.DataAccessLayer.csproj",
+              "RelativeToolTip": "PinewoodDMS.DataAccessLayer\\PinewoodDMS.DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T10:35:08.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

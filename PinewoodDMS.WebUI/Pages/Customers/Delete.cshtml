@@ -1,0 +1,45 @@
+﻿@page "{id:guid}"
+@model PinewoodDMS.WebUI.Pages.Customers.DeleteModel
+@{
+    ViewData["Title"] = "Delete Customer";
+}
+<h2>Delete Customer</h2>
+
+<h4>Are you sure you want to delete this customer?</h4>
+<div class="mb-3">
+    <strong>First Name:</strong> @Model.Customer.FirstName
+</div>
+<div class="mb-3">
+    <strong>Last Name:</strong> @Model.Customer.LastName
+</div>
+<div class="mb-3">
+    <strong>Email:</strong> @Model.Customer.Email
+</div>
+<div class="mb-3">
+    <strong>Telephone:</strong> @Model.Customer.Telephone
+</div>
+<div class="mb-3">
+    <strong>House Number:</strong> @Model.Customer.HouseNumber
+</div>
+<div class="mb-3">
+    <strong>Address Line1:</strong> @Model.Customer.AddressLine1
+</div>
+<div class="mb-3">
+    <strong>Address Line2:</strong> @Model.Customer.AddressLine2
+</div>
+<div class="mb-3">
+    <strong>City:</strong> @Model.Customer.City
+</div>
+<div class="mb-3">
+    <strong>Postal Code:</strong> @Model.Customer.PostalCode
+</div>
+<div class="mb-3">
+    <strong>Country:</strong> @Model.Customer.Country
+</div>
+<div class="mb-3">
+    <strong>Email:</strong> @Model.Customer.Email
+</div>
+<form method="post">
+    <input type="submit" value="Delete" class="btn btn-danger" />
+    <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+</form>

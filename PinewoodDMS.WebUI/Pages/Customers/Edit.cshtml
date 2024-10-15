@@ -1,0 +1,69 @@
+﻿@page "{id:guid}"
+@model PinewoodDMS.WebUI.Pages.Customers.EditModel
+@{
+    ViewData["Title"] = "Edit Customer";
+}
+<h2>Edit Customer</h2>
+@if (Model.Customer != null)
+{
+
+    <form method="post">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="Customer.FirstName"></label>
+            <input asp-for="Customer.FirstName" class="form-control" />
+            <span asp-validation-for="Customer.FirstName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Customer.LastName"></label>
+            <input asp-for="Customer.LastName" class="form-control" />
+            <span asp-validation-for="Customer.LastName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Customer.Email"></label>
+            <input asp-for="Customer.Email" class="form-control" />
+            <span asp-validation-for="Customer.Email" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Customer.Telephone"></label>
+            <input asp-for="Customer.Telephone" class="form-control" />
+            <span asp-validation-for="Customer.Telephone" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Customer.HouseNumber"></label>
+            <input asp-for="Customer.HouseNumber" class="form-control" />
+            <span asp-validation-for="Customer.HouseNumber" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Customer.AddressLine1"></label>
+            <input asp-for="Customer.AddressLine1" class="form-control" />
+            <span asp-validation-for="Customer.AddressLine1" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Customer.AddressLine2"></label>
+            <input asp-for="Customer.AddressLine2" class="form-control" />
+            <span asp-validation-for="Customer.AddressLine2" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Customer.City"></label>
+            <input asp-for="Customer.City" class="form-control" />
+            <span asp-validation-for="Customer.City" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Customer.PostalCode"></label>
+            <input asp-for="Customer.PostalCode" class="form-control" />
+            <span asp-validation-for="Customer.PostalCode" class="text-danger"></span>
+        </div>
+        <div class="form-group mb-3">
+            <label asp-for="Customer.Country"></label>
+            <input asp-for="Customer.Country" class="form-control" />
+            <span asp-validation-for="Customer.Country" class="text-danger"></span>
+        </div>
+        <div class="text-center d-flex justify-content-center gap-2">
+        <input type="submit" value="Save" class="btn btn-primary" />
+        <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+        </div>
+    </form>
+
+
+}
